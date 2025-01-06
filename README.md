@@ -174,4 +174,4 @@ EIP-7849 maintains full backwards compatibility with [ERC-20](https://ethereum.o
 
 ## Copyright
 
-Copyright and related rights waived via [MIT](./LICENSE.md).
+Copyright and related rights waived via [MIT](./LICENSE).
