@@ -1,0 +1,20 @@
+{
+  "name": "eip-7849",
+  "version": "1.0.0",
+  "description": "Fungible Token with gas rebates, secure signature validation, and optimized transfer mechanisms.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "tests": "hardhat test",
+    "node": "hardhat node"
+  },
+  "author": {
+    "name": "Amitesh Gautam",
+    "email": "blockchaindev.amitesh@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  }
+}
